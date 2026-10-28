@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Shamma");
+        System.out.println("Shahad");
         shamma();
         fatima();
         shahad();
