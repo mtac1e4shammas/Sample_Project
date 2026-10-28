@@ -5,6 +5,7 @@ public class Fatima {
     public String test2;
 
     public String getName() {
+        // test 
         return name;
     }
 
